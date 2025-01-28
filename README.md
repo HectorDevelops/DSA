@@ -4,6 +4,6 @@
 Welcome to my **Data Structures and Algorithms** directory! 
 
 This repository serves as a collection of my solved **LeetCode** problems as I continue improving my problem-solving skills. 
-Here, you will find solutions organized by topic, including arrays, trees, graphs, dynamic programming, and more. 
+Here, you will find solutions as I work my way through each LeetCode problem.
 
 This repositoy reflects my journey of growth, learning in algorithmic problem solving. 
